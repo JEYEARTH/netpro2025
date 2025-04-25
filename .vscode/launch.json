@@ -1,0 +1,145 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TheBoilingEarthEraC",
+            "request": "launch",
+            "mainClass": "TheBoilingEarthEraC",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "TheBoilingEarthEraB",
+            "request": "launch",
+            "mainClass": "TheBoilingEarthEraB",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "TheBoilingEarthEraA",
+            "request": "launch",
+            "mainClass": "TheBoilingEarthEraA",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "StringBufferTest",
+            "request": "launch",
+            "mainClass": "StringBufferTest",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "PrintYourAge",
+            "request": "launch",
+            "mainClass": "PrintYourAge",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest",
+            "request": "launch",
+            "mainClass": "ArrayTest",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "LoopExample",
+            "request": "launch",
+            "mainClass": "LoopExample",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "IfArgsTest",
+            "request": "launch",
+            "mainClass": "IfArgsTest",
+            "projectName": "netpro2025_1940565f",
+            "args": [
+                "10"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "IfArgs",
+            "request": "launch",
+            "mainClass": "IfArgs",
+            "projectName": "netpro2025_1940565f",
+            "args": [
+                "4"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "IfTest",
+            "request": "launch",
+            "mainClass": "IfTest",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalStatements",
+            "request": "launch",
+            "mainClass": "ConditionalStatements",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "BugFix4",
+            "request": "launch",
+            "mainClass": "BugFix4",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "BugFix3",
+            "request": "launch",
+            "mainClass": "BugFix3",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "BugFix2",
+            "request": "launch",
+            "mainClass": "BugFix2",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "BugFix1",
+            "request": "launch",
+            "mainClass": "BugFix1",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "HelloArgs",
+            "request": "launch",
+            "mainClass": "HelloArgs",
+            "projectName": "netpro2025_1940565f",
+            "args": [
+                "B0",
+                "B1",
+                "B2",
+                "B3"
+            ]
+        }
+    ]
+}
