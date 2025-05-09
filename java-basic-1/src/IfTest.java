@@ -3,26 +3,26 @@ public class IfTest {
 
 		boolean b1 = true;
 		boolean b2 = false;
-		if(true){
-			System.out.println("trueは実行される");
-		}
-		if(false){
-			System.out.println("false ");//falseのものは実行されない。
-		}
+		// if(true){
+		// 	System.out.println("trueは実行される");
+		// }
+		// if(false){
+		// 	System.out.println("false");
+		// }
 		/*************** testA**************/
-		/* 
+		
 		if(b1){
 			System.out.println("(0)b1 is "+b1);
 		}
-		 */
+		
 		/*************** testB**************/
-		/*
+		
 		if(b2){
 			System.out.println("(1)b2 is "+b2);
 		}else{
 			System.out.println("(2)b2 is "+b2);
 		}
-		*/
+		
 		/*************** testC**************/
 		/*
 		if(b1&&b2){

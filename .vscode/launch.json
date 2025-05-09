@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeCheck",
+            "request": "launch",
+            "mainClass": "PrimeCheck",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "MyExceptionHoliday",
+            "request": "launch",
+            "mainClass": "MyExceptionHoliday",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "AverageC",
+            "request": "launch",
+            "mainClass": "AverageC",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "XmasTree",
+            "request": "launch",
+            "mainClass": "XmasTree",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "ExampleMap",
+            "request": "launch",
+            "mainClass": "ExampleMap",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "ExampleSet",
+            "request": "launch",
+            "mainClass": "ExampleSet",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "ExampleList",
+            "request": "launch",
+            "mainClass": "ExampleList",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
+            "name": "CopyFileExample",
+            "request": "launch",
+            "mainClass": "CopyFileExample",
+            "projectName": "netpro2025_1940565f"
+        },
+        {
+            "type": "java",
             "name": "TheBoilingEarthEraC",
             "request": "launch",
             "mainClass": "TheBoilingEarthEraC",
